@@ -1,0 +1,63 @@
+[
+
+    {
+        "id": 1,
+        "activity": "Natação",
+        "icon": "swimmer",
+        "title": "Travessia 20km",
+        "description": "Travessia de ponta a ponta no rio Paraná.",
+        "date": "23/06/20",
+        "img": "https://pbs.twimg.com/media/Cpdk-lTVUAA-jeV.jpg:large"
+    },
+
+    {
+        "id": 2,
+        "activity": "Corrida",
+        "icon": "running",
+        "title": "Corrida 35km",
+        "description": "Corridinha básica de sábado.",
+        "date": "18/05/20",
+        "img": "https://www.sesc-rs.com.br/wp-content/uploads/2020/10/Corrida-de-Rua-GettyImages-1172155958.jpg"
+    },
+
+    {
+        "id": 3,
+        "activity": "Academia",
+        "icon": "dumbbell",
+        "title": "Treininho",
+        "description": "Duas horinhas de academia na terça.",
+        "date": "15/05/20",
+        "img": "https://i.redd.it/1wpyndbfbi711.jpg"
+    },
+
+    {
+        "id": 4,
+        "activity": "Caminhada",
+        "icon": "walking",
+        "title": "Caminhada",
+        "description": "Fui na padaria buscar um pão.",
+        "date": "20/04/20",
+        "img": "https://mblogthumb-phinf.pstatic.net/MjAyMDAxMTZfMjUg/MDAxNTc5MTQxNjM2Mzc3.Bmv0g0G2-pwzSl45lZj36JZ3CZc5LXF7RrpfFcdXmbcg.Fy9-RdO3gj9uUr4rV2u-327AiVxIKaTrNDFiYE4BpnUg.JPEG.poiu357a/014OrCiadLrBuZdfUbVMDDL.jpg?type=w800"
+    },
+
+    {
+        "id": 5,
+        "activity": "Ciclismo",
+        "icon": "biking",
+        "title": "Pedalada",
+        "description": "Pedalada de Umuarama até Cianorte.",
+        "date": "23/03/20",
+        "img": "https://inovacaosebraeminas.com.br/wp-content/uploads/2018/04/iStock-831550848-768x512.jpg"
+    },
+
+    {
+        "id": 6,
+        "activity": "Trilha",
+        "icon": "hiking",
+        "title": "Trilha",
+        "description": "Trilha no monte Ziriguidum",
+        "date": "23/02/20",
+        "img": "https://www.muchbetteradventures.com/magazine/content/images/2018/05/21120428/iStock-687441014.jpg"
+    }
+
+]

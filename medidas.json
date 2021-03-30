@@ -1,0 +1,76 @@
+[
+    {
+        "id": 5,
+        "weight": "75",
+        "height": "170",
+        "torax": "90",
+        "waist": "90",
+        "hip": "90",
+        "thighs": "90",
+        "calf": "90",
+        "glutes": "90",
+        "biceps": "90",
+        "date": "10/05/20",
+        "img": "https://starsgab.com/wp-content/uploads/2020/11/14719721_316429742064926_6542378825634807808_n.jpg"
+    },
+
+    {
+        "id": 4,
+        "weight": "75",
+        "height": "170",
+        "torax": "90",
+        "waist": "90",
+        "hip": "90",
+        "thighs": "90",
+        "calf": "90",
+        "glutes": "90",
+        "biceps": "90",
+        "date": "13/04/20",
+        "img": "https://a.espncdn.com/photo/2019/1220/r644106_1296x729_16-9.jpg"
+    },
+
+    {
+        "id": 3,
+        "weight": "75",
+        "height": "170",
+        "torax": "90",
+        "waist": "90",
+        "hip": "90",
+        "thighs": "90",
+        "calf": "90",
+        "glutes": "90",
+        "biceps": "90",
+        "date": "15/03/20",
+        "img": "https://i.imgflip.com/2o8srm.jpg"
+    },
+
+    {
+        "id": 2,
+        "weight": "75",
+        "height": "170",
+        "torax": "90",
+        "waist": "90",
+        "hip": "90",
+        "thighs": "90",
+        "calf": "90",
+        "glutes": "90",
+        "biceps": "90",
+        "date": "25/02/20",
+        "img": "https://i.imgflip.com/2kgffa.jpg"
+    },
+
+    {
+        "id": 1,
+        "weight": "75",
+        "height": "170",
+        "torax": "90",
+        "waist": "90",
+        "hip": "90",
+        "thighs": "90",
+        "calf": "90",
+        "glutes": "90",
+        "biceps": "90",
+        "date": "05/01/20",
+        "img": "https://i.imgflip.com/40s893.jpg"
+    }
+]
